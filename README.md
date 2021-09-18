@@ -1,0 +1,2 @@
+# Shekel-Generator
+STANI BOGAT
